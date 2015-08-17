@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RMDateSelectionViewController"
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "7.0"
   s.version      = "2.0.1"
   s.summary      = "This is an iOS control for selecting a date using UIDatePicker in a UIActionSheet like fashion"
   s.homepage     = "https://github.com/CooperRS/RMDateSelectionViewController"
